@@ -12,7 +12,7 @@
                edit-on-github-branch="master"
                edit-on-github="TYPO3-Teams-Documentation/T3o-Team"
                typo3-core-preferred="stable"
-               interlink-shortcode="typo3/team-t3oteam"
+               interlink-shortcode="t3org"
     />
     <project title="t3o team"
              release="2.0"
